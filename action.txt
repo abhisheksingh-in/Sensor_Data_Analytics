@@ -1,0 +1,2 @@
+“I worked on sensor data analytics where I performed time-series analysis and implemented anomaly detection using statistical techniques like Z-score. 
+This can be applied to predictive maintenance in industrial systems.”
